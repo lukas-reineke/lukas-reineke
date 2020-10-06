@@ -1,1 +1,1 @@
-![longcat](https://i.imgur.com/bCtJUUC.png)
+<img src="https://i.imgur.com/zdRjEq8.png" alt="lukas reineke - software engineer" />
