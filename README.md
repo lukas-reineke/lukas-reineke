@@ -27,15 +27,10 @@
 
 ---
 
-<p float="left" align="center">
-    <a href="https://balls.lukas-reineke.com" target="_blank">
-        <img src="https://i.imgur.com/MA1jj5p.gif" alt="balls" width="300"
-        height="300" />
-    </a>
-    <a href="https://からあげクン.jp" target="_blank">
-        <img src="https://user-images.githubusercontent.com/12900252/144735167-a68d62b6-633f-44da-ad8c-50a0e99eaaa2.gif" alt="karaagekun" width="300" height="300" />
-    </a>
-    <a href="https://medium.com/henngeblog/mechanical-keyboard-business-card-83385aa8bc29" target="_blank">
-        <img src="https://user-images.githubusercontent.com/12900252/144735339-fd735f9c-47f8-49be-b8cb-fca3eaa1d82f.jpg" alt="karaagekun" width="300" height="300" />
-    </a>
-</p>
+<div align="center">
+
+|             [balls.lukas-reineke.com](https://balls.lukas-reineke.com)             |                                                          [からあげクン.jp](https://からあげクン.jp)                                                           |                                                                                          [Mechanical keyboard business card](https://medium.com/henngeblog/mechanical-keyboard-business-card-83385aa8bc29)                                                                                          |
+| :--------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://i.imgur.com/MA1jj5p.gif" alt="balls" width="300" height="300" /> | <img src="https://user-images.githubusercontent.com/12900252/144735167-a68d62b6-633f-44da-ad8c-50a0e99eaaa2.gif" alt="karaagekun" width="300" height="300" /> | <a href="https://medium.com/henngeblog/mechanical-keyboard-business-card-83385aa8bc29" target="_blank"></a><img src="https://user-images.githubusercontent.com/12900252/144735339-fd735f9c-47f8-49be-b8cb-fca3eaa1d82f.jpg" alt="mechanical-keyboard-business-card" width="300" height="300" /><a/> |
+
+</div>
